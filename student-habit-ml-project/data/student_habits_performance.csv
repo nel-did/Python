@@ -1,0 +1,13 @@
+The contents of the file /student-habit-ml-project/student-habit-ml-project/data/student_habits_performance.csv are as follows:
+
+student_id,study_hours,attendance,participation,performance
+1,5,90,1,85
+2,3,80,0,70
+3,4,85,1,75
+4,2,70,0,60
+5,6,95,1,90
+6,1,60,0,50
+7,7,100,1,95
+8,3,75,0,65
+9,4,80,1,80
+10,5,85,1,88
